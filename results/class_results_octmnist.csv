@@ -1,0 +1,5 @@
+Dataset,Class,Accuracy,AUC
+octmnist,0,0.884,0.9511919999999999
+octmnist,1,0.812,0.9559093333333333
+octmnist,2,0.332,0.87224
+octmnist,3,0.92,0.9415653333333334

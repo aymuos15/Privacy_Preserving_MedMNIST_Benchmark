@@ -1,0 +1,2 @@
+Dataset,Overall Accuracy,Overall AUC,Balanced Accuracy
+breastmnist,0.7307692307692307,0.7901002506265664,0.5

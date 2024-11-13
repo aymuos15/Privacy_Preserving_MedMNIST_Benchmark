@@ -1,0 +1,2 @@
+Dataset,Overall Accuracy,Overall AUC,Balanced Accuracy
+pneumoniamnist,0.8685897435897436,0.9599194608809993,0.829059829059829
